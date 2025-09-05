@@ -1,2 +1,12 @@
 # SQL_Learnings
-SQL Queries Practice 
+
+## Order of Commands (↓)
+SELECT
+FROM
+JOINS
+WHERE
+GROUP BY
+HAVING
+ORDER BY
+LIMIT
+
