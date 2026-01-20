@@ -1,4 +1,5 @@
 # SQL_Learnings
+
 ## Order of Commands (↓)
 SELECT →
 FROM →
